@@ -6,4 +6,5 @@ h2 {
   font-size: 48px;
   color: palegreen;
   border: 1px solid black;
+  border-radius: 8px;
 }
